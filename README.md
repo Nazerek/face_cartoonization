@@ -1,5 +1,5 @@
 # face_cartoonization
-Final project - Intro to CV course
+Final project - Intro to CV course (2020)
 
 Adjustable Face cartoonization with CV 
 
