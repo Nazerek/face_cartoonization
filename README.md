@@ -1,7 +1,7 @@
 # face_cartoonization
-Final project - Intro to CV course (2020)
+Final project for Introduction to Computer Vision course (2020) at Skoltech
 
-Adjustable Face cartoonization with CV 
+Title: Adjustable Face cartoonization with CV 
 
 ![alt text](https://github.com/nazerek/face_cartoonization/blob/main/girl.png?raw=true)
 
